@@ -1,0 +1,36 @@
+Spreadsheet actions and movement:
+
+Save: Ctrl-S
+Print: Ctrl-P
+Undo: Ctrl-Z
+Redo: Ctrl-Y
+Jump to Bottom of Data: Ctrl-Down Arrow
+Jump to Top of Data: Ctrl-Up Arrow
+Go to Previous Sheet: Ctrl-Page Up
+Go to Next Sheet: Ctrl-Page Down
+Data selection:
+
+Select All Data in Column: Ctrl-Shift-Down Arrow 
+Select Whole Column: Ctrl-Space
+Select All Data in Row: Shift-Space
+Select All Data in Region: Ctrl-A
+Data Editing:
+
+Filter: Ctrl-Shift-L
+Find: Ctrl-F
+Flash Fill: Ctrl-E
+Select Discontinuous Cells:  Shift-F8
+Spell Check: F7
+Automatically Add Sum Totals for Columns and/or Rows: Alt-=
+Remove Duplicates: Alt-A-M
+Sort A-Z: Alt-A-S-A
+Sort Z-A: Alt-A-S-D
+Delete Row: Ctrl-minus
+Copy Selected Object or Data: Ctrl-D
+Data Formatting:
+
+Format Cells: Ctrl-1
+Create Data Table: Ctrl-T
+Autoformat Data Tables: Alt-O-A
+Format As Currency: Ctrl-Shift-4
+Format As 2 Decimal Place Number: Ctrl-Shift-1
